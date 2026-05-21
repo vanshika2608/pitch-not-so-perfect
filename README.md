@@ -69,7 +69,8 @@ Because Silicon Valley startup culture is accidentally hilarious.
 
 ## Screenshots
 
-(Add screenshots here later)
+<img width="1400" alt="Pitch-Not-So-Perfect Screenshot" src="./screenshots/landing.png" />
+<img width="1400" alt="Pitch-Not-So-Perfect Screenshot" src="./screenshots/generated.png" />
 
 ---
 
