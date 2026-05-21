@@ -4,6 +4,9 @@ Generate the next billion-dollar startup nobody asked for.
 
 An AI-powered startup satire generator that creates absurd Silicon Valley startup pitches filled with buzzwords, fake valuations, visionary founders, and investor delusion.
 
+## Demo
+https://pitch-not-so-perfect.vercel.app/
+
 ## Features
 
 - AI-generated fake startups
